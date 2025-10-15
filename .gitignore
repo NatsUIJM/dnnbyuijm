@@ -1,3 +1,4 @@
 plots
 predicted_potential.csv
 prediction_errors.csv
+output/
