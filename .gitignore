@@ -3,3 +3,5 @@ predicted_potential.csv
 prediction_errors.csv
 output-pinns/
 .DS_Store
+DBDRFOutput
+PI-DeepONet
